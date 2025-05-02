@@ -22,8 +22,8 @@ Em todas as empresas em que trabalhei, sempre me destaquei por ser um pioneiro n
 Veja meus artigos publicados:
 
 * Fatores que alteram a demanda - https://bit.ly/4hiwKjG
-* 
-* 
+* Criptografia  - https://bit.ly/4lXAzgL
+* Linux - https://bit.ly/42VaZAf
 
 
 ---
