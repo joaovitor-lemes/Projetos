@@ -12,7 +12,7 @@ Sou Engenheiro Mecânico com mais de 4 anos de experiência relevante, tendo ger
 Em todas as empresas em que trabalhei, sempre me destaquei por ser um pioneiro na utilização de novas tecnologias para alcançar metas desafiadoras, independentemente da dificuldade técnica, e por manter sempre um excelente relacionamento com os clientes.
 
 
-**Background in:** Python e Machine Learning.
+**Background in:** Python, Machine Learning e Blockchain
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-vitor-lemes/)
