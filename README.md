@@ -7,7 +7,7 @@
 # João Vitor Lemes
 <sub>*Engenheiro Mecânico* pelo IFG com MBA em Data Analytics</sub>
 
-Sou Engenheiro Mecânico com mais de 4 anos de experiência relevante, tendo gerado muitos resultados e mudanças nas empresas em que trabalhei, por meio da utilização de Inteligência Artificial, Estatística e Machine Learning para a otimização de previsões de demanda.
+Sou Engenheiro Mecânico com mais de 4 anos de experiência relevante, tendo gerado muitos resultados e mudanças nas empresas em que trabalhei, por meio da utilização de Inteligência Artificial, Estatística e Machine Learning para a otimização de previsões de demanda e agora por meio do estudo de Blockchain e criptografia. 
 
 Em todas as empresas em que trabalhei, sempre me destaquei por ser um pioneiro na utilização de novas tecnologias para alcançar metas desafiadoras, independentemente da dificuldade técnica, e por manter sempre um excelente relacionamento com os clientes.
 
