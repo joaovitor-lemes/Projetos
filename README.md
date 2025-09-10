@@ -4,26 +4,64 @@
   <img src="https://img.freepik.com/vetores-gratis/fundo-de-diagrama-de-circuito-de-rosto-de-tecnologia_1017-18300.jpg?t=st=1736971479~exp=1736975079~hmac=29a31a2483e6476f66fe4955d48a556dbe5b72e6cd852eea500cf4bdd7023525&w=1480" >
 </p>
 
-# João Vitor Lemes
-<sub>*Engenheiro Mecânico* pelo IFG com MBA em Data Analytics</sub>
+# 📊 Projetos de Ciência de Dados
 
-Sou Engenheiro Mecânico com mais de 4 anos de experiência relevante, tendo gerado muitos resultados e mudanças nas empresas em que trabalhei, por meio da utilização de Inteligência Artificial, Estatística e Machine Learning para a otimização de previsões de demanda e agora por meio do estudo de Blockchain e criptografia. 
-
-Em todas as empresas em que trabalhei, sempre me destaquei por ser um pioneiro na utilização de novas tecnologias para alcançar metas desafiadoras, independentemente da dificuldade técnica, e por manter sempre um excelente relacionamento com os clientes.
-
-
-**Background in:** Python, Machine Learning e Blockchain
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/joao-vitor-lemes/)
-
-
-## Projetos:
-Veja meus artigos publicados:
-
-* Fatores que alteram a demanda - https://bit.ly/4hiwKjG
-* Criptografia  - https://bit.ly/4lXAzgL
-* Linux - https://bit.ly/42VaZAf
-
+Este repositório reúne diferentes projetos desenvolvidos com foco em **Ciência de Dados, Machine Learning e Análise Exploratória**. Cada notebook aborda um desafio específico, explorando desde a análise de dados até a aplicação de modelos preditivos.
 
 ---
+
+## 🚀 Projetos
+
+### 1. 🏠 Análise de Dados do Airbnb em Nova York
+📂 Arquivo: `Analise_de_Dados_do_Airbnb_em_Nova_York.ipynb`  
+- Análise exploratória dos dados de hospedagens em Nova York.  
+- Identificação de padrões de preços, regiões mais procuradas e tipos de imóveis mais populares.  
+- Visualizações para facilitar a interpretação das informações.  
+
+---
+
+### 2. 🔄 Churn Prediction
+📂 Arquivo: `Churn_Prediction.ipynb`  
+- Modelagem preditiva para identificar clientes com maior probabilidade de cancelamento.  
+- Aplicação de técnicas de **Machine Learning** para previsão de churn.  
+- Análise de variáveis mais relevantes para a retenção de clientes.  
+
+---
+
+### 3. 👥 Segmentação de Clientes
+📂 Arquivo: `Segmentacao_de_Clientes.ipynb`  
+- Utilização de técnicas de **Clusterização (K-Means)** para segmentar clientes.  
+- Identificação de perfis de consumidores para apoiar estratégias de marketing.  
+- Visualizações que destacam os diferentes grupos de clientes.  
+
+---
+
+### 4. 📈 Séries Temporais
+📂 Arquivo: `Series_Temporais.ipynb`  
+- Estudo e modelagem de séries temporais.  
+- Previsão de demanda ao longo do tempo utilizando métodos estatísticos e de machine learning.  
+- Avaliação das métricas de erro para medir a qualidade das previsões.  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Python**  
+- **Pandas**  
+- **NumPy**  
+- **Matplotlib**  
+- **Seaborn**  
+- **Scikit-learn**  
+- **Statsmodels**  
+- **Jupyter Notebook**
+
+---
+
+## 📌 Objetivo
+O repositório foi criado com o intuito de **explorar aplicações práticas em Ciência de Dados** e demonstrar habilidades em análise, modelagem preditiva e comunicação de resultados.
+
+---
+
+✨ Fique à vontade para explorar os notebooks, contribuir ou deixar sugestões!
+
+
+
